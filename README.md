@@ -1,4 +1,4 @@
-# Hello
+# The Time machine theme
 
 [![Build Status](https://travis-ci.org/pages-themes/time-machine.svg?branch=master)](https://travis-ci.org/pages-themes/time-machine) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-time-machine.svg)](https://badge.fury.io/rb/jekyll-theme-time-machine)
 
