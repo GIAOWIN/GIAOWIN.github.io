@@ -263,6 +263,8 @@ spring-boot-autoconfigure包其中定义了大量自动配置类并且提供了�
 
 # LOG
 
+
+
 你会发现日志中什么都没有，因为我们记录的log级别是debug，默认是显示info以上，我们需要进行配置。
 
 SpringBoot通过`logging.level.*=debug`来配置日志级别，*填写包名
